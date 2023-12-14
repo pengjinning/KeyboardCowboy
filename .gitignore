@@ -6,19 +6,19 @@ Build/*.xcarchive
 Build/Releases/*
 Derived
 Generated/*
-Keyboard-Cowboy.xcodeproj/project.*
-Keyboard-Cowboy.xcodeproj/xcshareddata/xcschemes/*
-Keyboard-Cowboy.xcodeproj/xcuserdata/*
+# Keyboard-Cowboy.xcodeproj/project.*
+# Keyboard-Cowboy.xcodeproj/xcshareddata/xcschemes/*
+# Keyboard-Cowboy.xcodeproj/xcuserdata/*
 Release/*.app
 Release/*.zip
 Release/.*
-Tuist/Dependencies/Lockfiles/Package.resolved
-Tuist/Dependencies/SwiftPackageManager
-Tuist/Dependencies/SwiftPackageManager/*
-Tuist/Dependencies/graph.json
+# Tuist/Dependencies/Lockfiles/Package.resolved
+# Tuist/Dependencies/SwiftPackageManager
+# Tuist/Dependencies/SwiftPackageManager/*
+# Tuist/Dependencies/graph.json
 exportOptions.plist
 Build/*.xcarchive
 Build/Releases/*
-ResultBundle.xcresult
-Sparkle/*
+# ResultBundle.xcresult
+# Sparkle/*
 .package.resolved
