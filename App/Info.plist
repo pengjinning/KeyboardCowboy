@@ -4,6 +4,19 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>com.zenangst.Keyboard-Cowboy.DraggableView</string>
+				<string>com.zenangst.Keyboard-Cowboy.WorkflowGroup</string>
+				<string>com.zenangst.Keyboard-Cowboy.Workflow</string>
+			</array>
+		</dict>
+	</array>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIconFile</key>
@@ -20,19 +33,6 @@
 	<string>$(MARKETING_VERSION)</string>
 	<key>CFBundleVersion</key>
 	<string>$(CURRENT_PROJECT_VERSION)</string>
-  <key>CFBundleDocumentTypes</key>
-  <array>
-    <dict>
-      <key>CFBundleTypeRole</key>
-      <string>Editor</string>
-      <key>LSItemContentTypes</key>
-      <array>
-        <string>com.zenangst.Keyboard-Cowboy.DraggableView</string>
-        <string>com.zenangst.Keyboard-Cowboy.WorkflowGroup</string>
-        <string>com.zenangst.Keyboard-Cowboy.Workflow</string>
-      </array>
-    </dict>
-  </array>
 	<key>LSApplicationCategoryType</key>
 	<string>public.app-category.utilities</string>
 	<key>LSMinimumSystemVersion</key>
@@ -41,10 +41,10 @@
 	<true/>
 	<key>NSAppleEventsUsageDescription</key>
 	<string>Needs permission to Apple Events in order to run Apple Scripts</string>
-  <key>NSBluetoothAlwaysUsageDescription</key>
-  <string>Needs permission to access Bluetooth peripheral information in order to execute contextual commands.</string>
-  <key>NSBluetoothPeripheralUsageDescription</key>
-  <string>Needs permission to access Bluetooth peripheral information in order to execute contextual commands.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Needs permission to access Bluetooth peripheral information in order to execute contextual commands.</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Needs permission to access Bluetooth peripheral information in order to execute contextual commands.</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright © 2019 zenangst. All rights reserved.</string>
 	<key>NSPrincipalClass</key>
