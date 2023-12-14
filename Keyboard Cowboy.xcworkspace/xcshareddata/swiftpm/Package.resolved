@@ -1,0 +1,103 @@
+{
+  "pins" : [
+    {
+      "identity" : "apps",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/zenangst/Apps.git",
+      "state" : {
+        "revision" : "aca6f3ea5e6764b4edef36415312257fe094f2c5",
+        "version" : "1.4.0"
+      }
+    },
+    {
+      "identity" : "axessibility",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/zenangst/AXEssibility.git",
+      "state" : {
+        "revision" : "db7d4d698f67f4b3827d9aef3c585d4f1b4ddc3c",
+        "version" : "0.0.11"
+      }
+    },
+    {
+      "identity" : "bonzai",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/zenangst/Bonzai.git",
+      "state" : {
+        "revision" : "8b0e4cccac186de5d956ae24bf8368c0e0c681a4"
+      }
+    },
+    {
+      "identity" : "dock",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/zenangst/Dock.git",
+      "state" : {
+        "revision" : "94fdf2b07796bb5be239d20f8905f5ca5a5bfe65",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "inject",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/krzysztofzablocki/Inject.git",
+      "state" : {
+        "revision" : "2057eb9819813b89fd2107e99608d2d20890d9c5",
+        "version" : "1.2.4"
+      }
+    },
+    {
+      "identity" : "inputsources",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/zenangst/InputSources.git",
+      "state" : {
+        "revision" : "4a1b0d24c6d89b044e1aedd912d61fd6c773f1a6",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "keycodes",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/zenangst/KeyCodes.git",
+      "state" : {
+        "revision" : "5cf3d066febec22b0fe0b9774812435ebab74e53",
+        "version" : "4.0.7"
+      }
+    },
+    {
+      "identity" : "launcharguments",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/zenangst/LaunchArguments.git",
+      "state" : {
+        "revision" : "e684393e44f31d91bc234ecfaae590006b7506a3",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "machport",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/zenangst/MachPort.git",
+      "state" : {
+        "revision" : "34b3ebeebc759727221972efac41d21e965b434b",
+        "version" : "3.0.2"
+      }
+    },
+    {
+      "identity" : "sparkle",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sparkle-project/Sparkle.git",
+      "state" : {
+        "revision" : "1f07f4096e52f19b5e7abaa697b7fc592b7ff57c",
+        "version" : "2.5.1"
+      }
+    },
+    {
+      "identity" : "windows",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/zenangst/Windows.git",
+      "state" : {
+        "revision" : "eaae1d76071ae52c5b8896d1865054c45440e0c8",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}

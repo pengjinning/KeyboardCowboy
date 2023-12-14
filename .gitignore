@@ -1,5 +1,5 @@
-*.xcodeproj
-*.xcworkspace
+# *.xcodeproj
+# *.xcworkspace
 .DS_Store
 .env
 Build/*.xcarchive
@@ -21,4 +21,4 @@ Build/*.xcarchive
 Build/Releases/*
 # ResultBundle.xcresult
 # Sparkle/*
-.package.resolved
+# .package.resolved
