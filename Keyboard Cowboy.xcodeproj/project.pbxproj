@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 55;
+	objectVersion = 56;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -449,7 +449,7 @@
 		23D4B74D05E716663044E837 /* Rule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rule.swift; sourceTree = "<group>"; };
 		25ABEDA1A0E5C7CDAF366289 /* DetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewModel.swift; sourceTree = "<group>"; };
 		2881805E689802BFCB775AC3 /* NotificationsSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationsSettingsView.swift; sourceTree = "<group>"; };
-		29E6DAA8D7EF1F75E2F8DF41 /* .gitignore */ = {isa = PBXFileReference; path = .gitignore; sourceTree = "<group>"; };
+		29E6DAA8D7EF1F75E2F8DF41 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		2AA66A2173F13F7B421A7DD1 /* WorkspacePublisher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkspacePublisher.swift; sourceTree = "<group>"; };
 		2B0DCDB935065D5B394F0A42 /* ApplicationTriggerController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApplicationTriggerController.swift; sourceTree = "<group>"; };
 		2BC33BDEC9353E0F3A5F45B3 /* KeyShortcut.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyShortcut.swift; sourceTree = "<group>"; };
@@ -457,9 +457,9 @@
 		2C57D2C287FF1A5AF386091A /* NewCommandPayload.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewCommandPayload.swift; sourceTree = "<group>"; };
 		2DB39855F3F924D6B9E54698 /* CommandSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommandSymbol.swift; sourceTree = "<group>"; };
 		2E0ACC73EF14231747EBE1E5 /* RuleListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RuleListView.swift; sourceTree = "<group>"; };
-		2EAF1CA1CF44D3ECA1057E27 /* gh-pages */ = {isa = PBXFileReference; path = "gh-pages"; sourceTree = "<group>"; };
+		2EAF1CA1CF44D3ECA1057E27 /* gh-pages */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "gh-pages"; sourceTree = "<group>"; };
 		2F029E8056F152288DB9DFFB /* ContentViewActionReducerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewActionReducerTests.swift; sourceTree = "<group>"; };
-		2F4E3B547D2D453524DB4B64 /* Fixtures */ = {isa = PBXFileReference; path = Fixtures; sourceTree = "<group>"; };
+		2F4E3B547D2D453524DB4B64 /* Fixtures */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Fixtures; sourceTree = "<group>"; };
 		2F98E76D00E90F5FFE79E081 /* EditConfigurationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditConfigurationView.swift; sourceTree = "<group>"; };
 		3038B238453FF9981C1DEB6F /* AppPreferences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppPreferences.swift; sourceTree = "<group>"; };
 		321BFCF203AB8E09933A2882 /* Encodable+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Encodable+Extensions.swift"; sourceTree = "<group>"; };
@@ -472,7 +472,7 @@
 		36983827E4D6667736488D24 /* KeyShortcutTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyShortcutTests.swift; sourceTree = "<group>"; };
 		36EFC35A5AD2996A73C59E13 /* GroupIconView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupIconView.swift; sourceTree = "<group>"; };
 		37970C6B50CF7185F2919C4D /* AXEditorResolver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AXEditorResolver.swift; sourceTree = "<group>"; };
-		37CB96893CF21544CCC6A40F /* Keyboard_Cowboy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Keyboard_Cowboy.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		37CB96893CF21544CCC6A40F /* Keyboard Cowboy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Keyboard Cowboy.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		38A99C74FDEDEDD9BC388A59 /* KeyboardShortcutTrigger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardShortcutTrigger.swift; sourceTree = "<group>"; };
 		3A43D449CC2A471B66C365EA /* DesignTime+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DesignTime+Extensions.swift"; sourceTree = "<group>"; };
 		3B134891A62C791795B44A95 /* PermissionsScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PermissionsScene.swift; sourceTree = "<group>"; };
@@ -584,7 +584,7 @@
 		8863DFC162BC61A9B34EA1CE /* AXTableResolver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AXTableResolver.swift; sourceTree = "<group>"; };
 		8A341171C13C97B271F8F620 /* NewCommandWindowManagementView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewCommandWindowManagementView.swift; sourceTree = "<group>"; };
 		8A5B6669654909BFA9F3A3D1 /* Application.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Application.swift; sourceTree = "<group>"; };
-		8BDD6969C2FEE9B6F03F92B6 /* workflows */ = {isa = PBXFileReference; path = workflows; sourceTree = "<group>"; };
+		8BDD6969C2FEE9B6F03F92B6 /* workflows */ = {isa = PBXFileReference; lastKnownFileType = folder; path = workflows; sourceTree = "<group>"; };
 		8C06BEB427F96A84B2629432 /* WorkflowTriggerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkflowTriggerView.swift; sourceTree = "<group>"; };
 		8CC88818D0340AE6B65F9438 /* ShellScriptPlugin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShellScriptPlugin.swift; sourceTree = "<group>"; };
 		8CE7BC6509F016A450843F96 /* MouseCommandView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MouseCommandView.swift; sourceTree = "<group>"; };
@@ -648,7 +648,7 @@
 		B3168EA1F66FBED5382C786F /* MachPortCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MachPortCoordinator.swift; sourceTree = "<group>"; };
 		B3A65F42CD2361D42CFFDD83 /* KeyboardCowboyEngine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardCowboyEngine.swift; sourceTree = "<group>"; };
 		B48FB8614824186E121DB3B2 /* EditableKeyboardShortcutsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditableKeyboardShortcutsView.swift; sourceTree = "<group>"; };
-		B4E85CFF3603E7B0E070B513 /* ci_scripts */ = {isa = PBXFileReference; path = ci_scripts; sourceTree = "<group>"; };
+		B4E85CFF3603E7B0E070B513 /* ci_scripts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = ci_scripts; sourceTree = "<group>"; };
 		B62BCDFB003F771051B886DB /* CustomMouseRoutine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomMouseRoutine.swift; sourceTree = "<group>"; };
 		B6F3F0C4920DCE157F48A832 /* KeyboardCowboyConfiguration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardCowboyConfiguration.swift; sourceTree = "<group>"; };
 		B8776FE5CB236E29A73EDBD6 /* CustomApplicationRoutine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomApplicationRoutine.swift; sourceTree = "<group>"; };
@@ -697,7 +697,7 @@
 		D533F6850E6D2834606D74D6 /* AddUserModeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddUserModeView.swift; sourceTree = "<group>"; };
 		D633C1853D978422054A39E5 /* WindowRunnerCenterWindow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WindowRunnerCenterWindow.swift; sourceTree = "<group>"; };
 		D72249FAF5452F7BE5C8A02C /* WorkspaceProviding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkspaceProviding.swift; sourceTree = "<group>"; };
-		D7DF121AD4009D54CF7724EB /* .env */ = {isa = PBXFileReference; path = .env; sourceTree = "<group>"; };
+		D7DF121AD4009D54CF7724EB /* .env */ = {isa = PBXFileReference; lastKnownFileType = text; path = .env; sourceTree = "<group>"; };
 		D821B83F4D9B972D45955C63 /* MenuBarCommand.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuBarCommand.swift; sourceTree = "<group>"; };
 		D86E2B8618378702552ADB8C /* TuistBundle+KeyboardCowboy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TuistBundle+KeyboardCowboy.swift"; sourceTree = "<group>"; };
 		D88CF157D5B01C0A048FB295 /* HelpMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelpMenu.swift; sourceTree = "<group>"; };
@@ -1154,7 +1154,7 @@
 		3D27DB6774F93DC1E2BC9215 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				37CB96893CF21544CCC6A40F /* Keyboard_Cowboy.app */,
+				37CB96893CF21544CCC6A40F /* Keyboard Cowboy.app */,
 				82C9B97123E98ED9AE69FE37 /* UnitTests.xctest */,
 			);
 			name = Products;
@@ -1885,7 +1885,7 @@
 				CDB04672F4F1AA33427FEE40 /* Windows */,
 			);
 			productName = Keyboard_Cowboy;
-			productReference = 37CB96893CF21544CCC6A40F /* Keyboard_Cowboy.app */;
+			productReference = 37CB96893CF21544CCC6A40F /* Keyboard Cowboy.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -2385,7 +2385,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = "-";
-				DEVELOPMENT_TEAM = XXXXXXXXXX;
+				DEVELOPMENT_TEAM = L5F47963M2;
 				INFOPLIST_FILE = UnitTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -2393,7 +2393,7 @@
 					"@loader_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 13.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.zenangst.Keyboard-Cowboy.UnitTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.kefux.Keyboard-Cowboy.UnitTests";
 				PRODUCT_NAME = UnitTests;
 				SDKROOT = macosx;
 				SWIFT_COMPILATION_MODE = wholemodule;
@@ -2414,7 +2414,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 392;
-				DEVELOPMENT_TEAM = XXXXXXXXXX;
+				DEVELOPMENT_TEAM = L5F47963M2;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = App/Info.plist;
@@ -2424,7 +2424,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 13.0;
 				MARKETING_VERSION = 3.20.2;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.zenangst.Keyboard-Cowboy";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.kefux.Keyboard-Cowboy";
 				PRODUCT_NAME = "Keyboard Cowboy";
 				SDKROOT = macosx;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
@@ -2504,7 +2504,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 392;
-				DEVELOPMENT_TEAM = XXXXXXXXXX;
+				DEVELOPMENT_TEAM = L5F47963M2;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = App/Info.plist;
@@ -2514,7 +2514,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 13.0;
 				MARKETING_VERSION = 3.20.2;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.zenangst.Keyboard-Cowboy";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.kefux.Keyboard-Cowboy";
 				PRODUCT_NAME = "Keyboard Cowboy";
 				SDKROOT = macosx;
 				SWIFT_COMPILATION_MODE = wholemodule;
@@ -2529,7 +2529,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = "-";
-				DEVELOPMENT_TEAM = XXXXXXXXXX;
+				DEVELOPMENT_TEAM = L5F47963M2;
 				INFOPLIST_FILE = UnitTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -2537,7 +2537,7 @@
 					"@loader_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 13.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.zenangst.Keyboard-Cowboy.UnitTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.kefux.Keyboard-Cowboy.UnitTests";
 				PRODUCT_NAME = UnitTests;
 				SDKROOT = macosx;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
